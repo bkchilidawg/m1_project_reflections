@@ -7,35 +7,35 @@ You will need to copy this markdown, create your own **private** gist, and paste
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
+1. Google
+2. 3 mentors
+3. ruby-docs
 ...
 
-#### Write a 1-2 sentence synopsis of what this project does:
+#### Write a 1-2 sentence synopsis of what this project does: It creates cards, puts them in a deck, and plays a guessing game. 
 
 ### Reflection Questions: 
-**1. How do you approach solving something when you don’t have all the information?**<br />
-**2. What was your most effective strategy for getting through blockers during this project? How did this help your process?**<br />
-**3. Tell us about a time that you found yourself in an unproductive struggle, how did you get out of it?**<br />
-**4. What was the benefit of using TDD while building out this project?**<br />
+**1. How do you approach solving something when you don’t have all the information?**<br /> Reached out to more expert coders.
+**2. What was your most effective strategy for getting through blockers during this project? How did this help your process?**<br /> Take a break! It let me look at it with "new eyes".
+**3. Tell us about a time that you found yourself in an unproductive struggle, how did you get out of it?**<br /> Category count! I used a mentor and we talked it out.
+**4. What was the benefit of using TDD while building out this project?**<br /> It tells you exactly where to go!
 
 ## First Solo
 
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
+1. Google
+2. Class mate help
+3. ruby docs
 ...
 
-#### Write a 1-2 sentence synopsis of what this project does:
+#### Write a 1-2 sentence synopsis of what this project does: Created beats in a linked list and played the beats
 
 ### Reflection Questions: 
-**1. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code.**<br />
-**2. What was your process when you got stuck?**<br />
-**3. If you had to do this project again, what would you do differently and why?**<br />
+**1. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code.**<br /> Scope! I used instance variables in my test to save time.
+**2. What was your process when you got stuck?**<br />Google, asks a class mate, and take a break. 
+**3. If you had to do this project again, what would you do differently and why?**<br />At this time, not really. I did it to the best of my ability at this moment.
 
 ## Second Solo
 
